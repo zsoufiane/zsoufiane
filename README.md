@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 # Hi there 👋 I'm Soufiane Zougagh
 
-![Banner](https://i.imgur.com/vLRp0KN.png)
+![Banner]([https://i.imgur.com/vLRp0KN.png](https://blog.paranoidpenguin.net/wp-content/uploads/2020/06/homer-simpson-any-key.png))
 
 ## About Me
 
@@ -51,6 +51,5 @@ You can click the Preview link to take a look at your changes.
 
 ## Let's Connect 🌐
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soufiane-zougagh)  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/zsoufiane)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soufiane-z-010bb92aa)
 
