@@ -9,9 +9,10 @@ zsoufiane/zsoufiane is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-# Hi there 👋 I'm Soufiane Zougagh
+# Hi there 👋 I'm Soufiane Zougagh,
 
-![Banner]([[https://i.imgur.com/vLRp0KN.png](https://blog.paranoidpenguin.net/wp-content/uploads/2020/06/homer-simpson-any-key.png](https://external-preview.redd.it/WwfRdaAfparYXX9Pq1Z_ZpIn3usQTGwtW3cE6YasSWE.jpg?auto=webp&s=8dbb4fc147d84b9f11e28588cfad7edb0e7d05ce)))
+![Banner](https://external-preview.redd.it/WwfRdaAfparYXX9Pq1Z_ZpIn3usQTGwtW3cE6YasSWE.jpg?auto=webp&s=8dbb4fc147d84b9f11e28588cfad7edb0e7d05ce)
+
 
 ## About Me
 
